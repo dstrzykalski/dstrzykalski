@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dstrzykalski
-- 👀 I’m interested in completing projects to improve my Html, Css and Javascript skills.
-- 🌱 I’m currently learning Javascript based Web Development.
+- 👀 I’m interested in furthering my knowledge of Full Stack Web Development.
+- 🌱 I’m currently learning Javascript based Web Development. Creating and Maintaining Databases using PostgreSQL as well as Creating RESTful API's using Node.js and Express.
 - 💞️ I’m looking to collaborate on any project with my peers.
 
 <!---
